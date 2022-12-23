@@ -7,7 +7,11 @@ kernel/includes/keyboard.sh
 kernel/keyboard.sc
 kernel/includes/svga.h
 kernel/includes/vga.h
+kernel/includes/svga.sh
+kernel/includes/vga.sh
 kernel/svga.c
+kernel/svga.sc
+kernel/vga.sc
 kernel/includes/pic.h
 kernel/includes/pit.h
 kernel/includes/apic.h
