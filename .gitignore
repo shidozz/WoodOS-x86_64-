@@ -1,6 +1,4 @@
-limine
 ovmf-x64
-kernel/limine.h
 kernel/includes/gdt.h
 kernel/includes/idt.h
 kernel/gdt.c
